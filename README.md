@@ -5,7 +5,7 @@ this project is a website develped for Hope for all shelter.the website provides
 ## features
 -homepage
 -about us page
--services 
+-services page
 -enquiry form
 -contact page
 
