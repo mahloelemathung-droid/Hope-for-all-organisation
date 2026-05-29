@@ -23,6 +23,7 @@ this project is a website develped for Hope for all shelter.the website provides
 7.open images folder in your browser
 8.open media folder in your browser 
 9.open assets\css folder in your browser
+10.open js folder in your browser
 
 ## changelog
 20/04/26-included images in my project
